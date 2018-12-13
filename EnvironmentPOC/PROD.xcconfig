@@ -1,0 +1,12 @@
+//
+//  PROD.xcconfig
+//  EnvironmentPOC
+//
+//  Created by Govindarajan Anand on 12/13/18.
+//  Copyright © 2018 JohnDeere. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+SERVER_URL = "www.aglogic.deere.com"
